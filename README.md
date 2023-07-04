@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adi-ya
+- 👋 Hi, I’m Adiya
 - 👀 I’m interested in technical documentation
 - 🌱 I’m currently learning software documentation
 - 💞️ I’m looking to collaborate on open source documentation
