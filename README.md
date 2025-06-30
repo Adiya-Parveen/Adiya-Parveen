@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adiya
 - 👀 I’m a technical writer
-- 🌱 How did I get into writing, you ask? well nobody gets into writing. Writing just shows up one day at your door and gets into you
 - 💞️ I love to read and talk about books, have a YouTube channel dedicated to it
 - 📫 You can read my works at https://medium.com/@Adiya.P and listen to my booktalk at https://www.youtube.com/@LitFaithFusion
 
